@@ -8,8 +8,6 @@ This will be removed from `dev` before introducing conflict
 
 This is just a placeholder
 
-This will be removed from `master` after introducing conflict
-
 This is just a placeholder
 
 This will be removed from `dev` after introducing conflict

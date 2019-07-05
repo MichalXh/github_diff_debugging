@@ -1,1 +1,1 @@
-this will be removed before conflict
+this [conflict from master] will be removed before conflict
